@@ -5,6 +5,8 @@ data = daftar_nilai.Data_mahasiswa()
 
 print("="*20)
 print("|PROGRAM INPUT DATA|")
+print("|NAMA : Abid Luay Raihan Taufik|")
+print("|NIM  : 312210401|")
 print("="*20)
 
 while True: 
