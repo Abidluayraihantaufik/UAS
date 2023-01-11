@@ -1,5 +1,5 @@
 # UAS
-# Link youtube 
+# Link Youtube 
 https://youtu.be/EOap8ED4YmM
 ### Buatlah package dan modul dengan struktur seperti berikut:
 - daftar_nilai.py berisi modul untuk: tambah_data, ubah_data, hapus_data, dan cari_data
@@ -197,8 +197,3 @@ def nilai():
 Di program ini terdapat modul yg menyambungkann input_nilai.py kedalam file program daftar_nilai.py dengan syntax from model import daftar_nilai. Fitur ini khusus untuk menginput nilai.
 
 ![img](Gambar/Gambar6.PNG)
-
-```sh
-https://youtu.be/EOap8ED4YmM
-
-```
