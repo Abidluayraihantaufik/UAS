@@ -195,3 +195,8 @@ def nilai():
 Di program ini terdapat modul yg menyambungkann input_nilai.py kedalam file program daftar_nilai.py dengan syntax from model import daftar_nilai. Fitur ini khusus untuk menginput nilai.
 
 ![img](Gambar/Gambar6.PNG)
+
+```sh
+https://youtu.be/EOap8ED4YmM
+
+```
