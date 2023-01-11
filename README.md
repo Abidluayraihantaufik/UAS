@@ -1,4 +1,6 @@
 # UAS
+# Link youtube 
+https://youtu.be/EOap8ED4YmM
 ### Buatlah package dan modul dengan struktur seperti berikut:
 - daftar_nilai.py berisi modul untuk: tambah_data, ubah_data, hapus_data, dan cari_data
 - view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian
